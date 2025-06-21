@@ -4,6 +4,8 @@
 
 The **Number Guessing Game** is a simple interactive web application where users try to guess a randomly generated number between 1 and 20. The game provides feedback on whether the guess is too high, too low, or correct. Players can restart the game at any time and aim to achieve the highest score.
 
+## Live Demo: https://jagadheeeeesh.github.io/Numer-Guessing-Game/
+
 ## Features
 
 - Randomly generated secret number between 1 and 20.
